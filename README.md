@@ -239,24 +239,25 @@ plt.show()
 
 ## 📷 Dashboard Preview
 
-### Supply Chain Overview
+### Supply Chain Analytics Dashboard
 
-The dashboard provides a complete overview of supply chain performance through interactive KPIs, charts, tables, and filters.
+![Supply Chain Dashboard](./Images/Supply_Chain_Dashboard.png)
 
-**Main dashboard includes:**
+The dashboard provides an interactive overview of supply chain performance, including revenue, shipping costs, quantity sold, defect rate, suppliers, locations, transportation modes, and inspection results.
 
+### 📊 Dashboard Components
+
+* Total Revenue
 * Total Shipping Cost
-* Average Defect Rate
 * Total Quantity Sold
 * Average Price
-* Total Revenue
+* Average Defect Rate
 * Revenue by Product Type
-* Average Shipping Time
+* Average Shipping Time by Transportation Mode
 * Inspection Results
 * Revenue by Supplier
 * Location Performance
-* Quantity Performance
-* Transportation Mode Filters
+* Order Quantity Performance
 
 ---
 

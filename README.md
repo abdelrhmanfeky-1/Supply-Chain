@@ -241,7 +241,9 @@ plt.show()
 
 ### Supply Chain Analytics Dashboard
 
-![Supply Chain Dashboard](./Images/Supply_Chain_Dashboard.png)
+![Supply Chain Dashboard](<p align="center">
+  <img src="./Images/Supply_Chain_Dashboard.png" alt="Supply Chain Dashboard" width="100%">
+</p>)
 
 The dashboard provides an interactive overview of supply chain performance, including revenue, shipping costs, quantity sold, defect rate, suppliers, locations, transportation modes, and inspection results.
 
